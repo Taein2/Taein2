@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Taein2/Taein2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Taein2** is a ✨ _special_User_ ✨ 
 
-Here are some ideas to get you started:
+
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
