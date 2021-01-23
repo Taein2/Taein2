@@ -5,7 +5,7 @@
 
 
 ### Tistory 블로그 
-### https://codingrepo.tistory.com/manage
+### https://codingrepo.tistory.com/
 
 
 ### 봉사 밴드 동아리
