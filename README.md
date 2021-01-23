@@ -1,5 +1,5 @@
 **Taein2** is a ✨ _special_User_ ✨ 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaein2&count_bg=%23000DFF&title_bg=%2312F000&icon=apacheflink.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ### Hi there 👋
 
