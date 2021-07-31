@@ -6,5 +6,5 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://codingrepo.tistory.com/)
 
 🌱 빅데이터 분석 공부중 + 알고리즘 빠이아
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=embed94xod">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=embed94xod">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165">
