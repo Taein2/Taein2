@@ -5,5 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dls102s@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://codingrepo.tistory.com/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2)](https://github.com/anuraghazra/github-readme-stats)
+🌱 빅데이터 분석 공부중 + 알고리즘 빠이아
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=embed94xod">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2)](https://github.com/anuraghazra/github-readme-stats)
