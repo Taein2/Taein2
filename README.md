@@ -6,6 +6,5 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://codingrepo.tistory.com/)
 
 🌱 빅데이터 분석 공부중 + 알고리즘 빠이아
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=embed94xod">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2)](https://github.com/anuraghazra/github-readme-stats)
