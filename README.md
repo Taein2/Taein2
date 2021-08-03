@@ -9,7 +9,5 @@
 
 
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=embed94xod">
-
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165">
