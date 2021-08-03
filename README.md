@@ -6,7 +6,8 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://codingrepo.tistory.com/)
 
 백기선님과 함께한 자바 스터디 내용은 tech blog에 있습니다.
-<
+
+
 🌱 빅데이터 분석 공부중 + 알고리즘 빠이아
 
 
