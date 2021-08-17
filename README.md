@@ -20,6 +20,6 @@
 - 서강대 라온제나 음악공연봉사단 (세션 : 베이스 기타) (2020.03~)
 - 42 Seoul
 - [가짜연구소] Data Science Fellowship SCF 3기 (Data Engineer - Python - 이성진)
-
+- 2021 공공데이터 청년 인턴 
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165">
