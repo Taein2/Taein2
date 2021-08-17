@@ -18,7 +18,6 @@
 - 서강대 라온제나 밴드 (세션 : 베이스 기타) (2020.03~)
 - 42seoul (2021.08~)(예정)
 - [가짜연구소] Data Science Fellowship (Data Engineer - Python - 이성진)
-- 
 
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165">
