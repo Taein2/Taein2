@@ -17,7 +17,7 @@
 - 2021 데이터 청년 캠퍼스 연세대학교 과정 수료 (빅데이터 분석처리 과정)
 - 서강대 라온제나 밴드 (세션 : 베이스 기타) (2020.03~)
 - 42seoul (2021.08~)
-- [가짜연구소] Data Science Fellowship (Data Engineer - Python - 이성진님)
+- [가짜연구소] Data Science Fellowship SCF 3기 (Data Engineer - Python - 이성진님)
 
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165">
