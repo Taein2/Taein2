@@ -21,6 +21,6 @@
 - 42 Seoul
 - [가짜연구소] Data Science Fellowship 1기 (Data Engineer - Python - 이성진)
 - 2021 공공데이터 청년 인턴 
-- 2021 데.멘.토(데이터 멘토링)(주관 : 한국지능정보사회진흥원, 과학기술정보통신부)
+- 2021 데.멘.토(데이터 멘토링)(주관 : NIA 한국지능정보사회진흥원, 과학기술정보통신부)
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165">
