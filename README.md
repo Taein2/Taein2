@@ -23,7 +23,7 @@
 - 2021 공공데이터 청년 인턴 
 - 2021 데.멘.토(데이터 멘토링)(주관 : NIA 한국지능정보사회진흥원, 과학기술정보통신부)
 - [DT SQUARE] B2C 리뷰 워킹그룹 활동
-- 서울시 빅데이터 캠퍼스 공모전
+- 서울시 빅데이터 캠퍼스 공모전(참여 예정)
 - 쏘카 실전 데이터로 배우는 AI 엔지니어 육성 부트캠프(멋쟁이사자처럼 직장인)
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165">
