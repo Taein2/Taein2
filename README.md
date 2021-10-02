@@ -18,7 +18,7 @@
 - 2021 하계 삼성SDS 알고리즘 특강 수료
 - 2021 데이터 청년 캠퍼스 연세대학교 과정 수료 (빅데이터 분석처리 과정)
 - 서강대 라온제나 음악공연봉사단 (세션 : 베이스 기타) (2020.03~)
-- 42 Seoul (La Piscine : Shell, C programming, header file, Makefile 작성법)
+- 42 Seoul (La Piscine : Shell, C programming, header file, Makefile)
 - [가짜연구소] Data Science Fellowship 1기 (Data Engineer - Python - 이성진)
 - 2021 공공데이터 청년 인턴 
 - 2021 데.멘.토(데이터 멘토링)(주관 : NIA 한국지능정보사회진흥원, 과학기술정보통신부)
