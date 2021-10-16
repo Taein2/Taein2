@@ -19,7 +19,7 @@
 - 2021 데이터 청년 캠퍼스 연세대학교 과정 수료 (빅데이터 분석처리 과정)
 - 서강대 라온제나 음악공연봉사단 (세션 : 베이스 기타) (2020.03~)
 - 42 Seoul
-- [가짜연구소] Data Science Fellowship 1기 (Data Engineer - Python - 이성진님)
+- [가짜연구소] Data Science Fellowship 1기 (Data Engineer - Python - 이성진)
 - 2021 공공데이터 청년 인턴
 - 2021 데.멘.토(데이터 멘토링)(주관 : NIA 한국지능정보사회진흥원, 과학기술정보통신부)
 - [DT SQUARE] B2C 리뷰 워킹그룹 활동 (연세대학교)
