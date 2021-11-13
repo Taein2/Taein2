@@ -33,9 +33,9 @@
 <div align = center>
 
 ![Taein2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2&show_icons=true&theme=aura&align=left)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&theme=dracula&align=right)
 ![taeikim's 42 stats](https://badge42.herokuapp.com/api/stats/taeikim?cursus=C%20Piscine&align=left)
 ![taeikim's 42 stats](https://badge42.herokuapp.com/api/stats/taeikim?privacyEmail=true&align=right)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&theme=dracula&align=right)
 
 <hr>
 
