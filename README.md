@@ -33,6 +33,8 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2&show_icons=true&theme=aura)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![taeikim's 42 stats](https://badge42.herokuapp.com/api/stats/taeikim?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![taeikim's 42 stats](https://badge42.herokuapp.com/api/stats/taeikim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 <hr>
 
