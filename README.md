@@ -31,7 +31,7 @@
 <hr>
 
 
-![Taein2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2&show_icons=true&theme=aura&align=left&width=150)
+![Taein2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2&show_icons=true&theme=aura&align=left&width=100)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&theme=dracula&align=right)
 
 <hr>
