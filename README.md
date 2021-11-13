@@ -30,10 +30,9 @@
 
 <hr>
 
-<div align = center>
 
-![Taein2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2&show_icons=true&theme=aura&align=left)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&theme=dracula&align=right)
+![Taein2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2&show_icons=true&theme=aura&align=left|center)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&theme=dracula&align=right|center)
 
 <hr>
 
