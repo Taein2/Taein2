@@ -32,7 +32,6 @@
 <div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2&show_icons=true&theme=aura)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 <hr>
