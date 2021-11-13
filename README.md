@@ -29,4 +29,5 @@
 - 연세대학교 데이터베이스 연구실 인턴
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165" align="left">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&align="right")](https://github.com/anuraghazra/github-readme-stats)
