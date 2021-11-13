@@ -29,16 +29,17 @@
 - 연세대학교 데이터베이스 연구실 인턴
 
 <hr>
-<div align = center>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2&show_icons=true&theme=aura&align=left)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&theme=dracula&align=right)](https://github.com/metleeha)
-[![taeikim's 42 stats](https://badge42.herokuapp.com/api/stats/taeikim?cursus=C%20Piscine&align=left)](https://github.com/JaeSeoKim/badge42)
-[![taeikim's 42 stats](https://badge42.herokuapp.com/api/stats/taeikim?privacyEmail=true&align=right)](https://github.com/JaeSeoKim/badge42)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2&show_icons=true&theme=aura&align=left)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&theme=dracula&align=right)
+![taeikim's 42 stats](https://badge42.herokuapp.com/api/stats/taeikim?cursus=C%20Piscine&align=left)
+![taeikim's 42 stats](https://badge42.herokuapp.com/api/stats/taeikim?privacyEmail=true&align=right)
 
 <hr>
 
- [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaein2&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align = center>
+
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaein2&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)
 ![followers](https://img.shields.io/github/followers/Taein2?style=social)
 
 
