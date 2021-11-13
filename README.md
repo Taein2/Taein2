@@ -28,6 +28,16 @@
 - 쏘카 실전 데이터로 배우는 AI 엔지니어 육성 부트캠프(멋쟁이사자처럼 직장인)
 - 연세대학교 데이터베이스 연구실 인턴
 
+
+<div align=center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taein2&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&align="right")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact&theme=dracula)](https://github.com/metleeha)
+
+<hr>
+
+ [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![followers](https://img.shields.io/github/followers/Taein2?style=social)
+
+
