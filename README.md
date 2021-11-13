@@ -28,5 +28,5 @@
 - 쏘카 실전 데이터로 배우는 AI 엔지니어 육성 부트캠프(멋쟁이사자처럼 직장인)
 - 연세대학교 데이터베이스 연구실 인턴
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Taein2" height="165"><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taein2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
