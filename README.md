@@ -48,12 +48,6 @@
 
 <hr>
 
-![taeikim's 42 stats](https://badge42.herokuapp.com/api/stats/taeikim?cursus=C%20Piscine&align=left)
-![taeikim's 42 stats](https://badge42.herokuapp.com/api/stats/taeikim?privacyEmail=true&align=right)
-
-<hr>
-
-
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaein2&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)
 ![followers](https://img.shields.io/github/followers/Taein2?style=social)
 
